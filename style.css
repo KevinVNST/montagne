@@ -1,0 +1,8 @@
+.carousel-item {
+margin: 0 auto;
+}
+
+.carousel-item img{
+width: 60vw;
+height: auto;
+}
